@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CalcApp2</string>
+    <string name="title_activity_intent">IntentActivity</string>
+    <string name="title_activity_calculator2">CalculatorActivity2</string>
+</resources>
